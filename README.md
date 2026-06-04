@@ -25,10 +25,8 @@ python main.py
 
 ## Authors
 
-Contributors names and contact info
-
-[ChineseChen123](https://github.com/ChineseChen123)
-[Woqh](https://github.com/Woqh)
+* [ChineseChen123](https://github.com/ChineseChen123)
+* [Woqh](https://github.com/Woqh)
 
 ## Version History
 
